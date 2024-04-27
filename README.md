@@ -8,3 +8,6 @@
 ![image](https://user-images.githubusercontent.com/56969447/225383936-f007eb62-c0ab-447b-932b-73fb71791822.png)
 
 Không dùng pin 5V
+
+![image](https://github.com/VANTHO15/jtag/assets/56969447/acb3de1b-fcf9-48f1-9376-ba10307e09f4)
+![image](https://github.com/VANTHO15/jtag/assets/56969447/7607e9ab-8437-426c-b119-bdbbbbc03a32)
