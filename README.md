@@ -11,3 +11,7 @@ Không dùng pin 5V
 
 ![image](https://github.com/VANTHO15/jtag/assets/56969447/acb3de1b-fcf9-48f1-9376-ba10307e09f4)
 ![image](https://github.com/VANTHO15/jtag/assets/56969447/7607e9ab-8437-426c-b119-bdbbbbc03a32)
+
+# Connect Lauterbach
+- Dùng SWD kết nối tới STM32F4 như bình thường
+- Cấp thêm 1 nguồn ngoài là GND và 3.3V kết nối vào GND và pin 5V của STm32 là oke
